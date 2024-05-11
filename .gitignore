@@ -1,0 +1,5 @@
+# Игнорировать папки
+Interview_default_case/.ipynb_checkpoints/
+
+Interview_default_case/reserch/catboost_info/
+Interview_default_case/reserch/.ipynb_checkpoints/
